@@ -19,9 +19,9 @@ The CSVs are linked to their original source rather than duplicated in this repo
 
 ## Project report
 
-[Read the original 2024 project report](https://github.com/sibala25/sibala25.github.io/blob/main/03_2024_SignLanguageML.pdf).
+[Read the original 2024 project report](03_2024_SignLanguageML.pdf).
 
-The report is temporarily hosted in my older portfolio repository. The original training code is not currently included in this archive.
+The original training code is not currently included in this archive.
 
 ## Role
 
