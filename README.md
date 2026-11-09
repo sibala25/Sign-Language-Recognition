@@ -4,7 +4,7 @@ A collaborative machine learning project completed through the **National Studen
 
 ## Project overview
 
-This project explored image classification for recognizing static American Sign Language (ASL) alphabet gestures. The project materials include a written report and the Sign Language MNIST dataset used for the analysis.
+This project explored image classification for recognizing static American Sign Language (ASL) alphabet gestures. The project report documents our approach and results using the Sign Language MNIST dataset.
 
 ## Dataset
 
@@ -20,8 +20,6 @@ The CSVs are linked to their original source rather than duplicated in this repo
 ## Project report
 
 [Read the original 2024 project report](03_2024_SignLanguageML.pdf).
-
-The original training code is not currently included in this archive.
 
 ## Role
 
